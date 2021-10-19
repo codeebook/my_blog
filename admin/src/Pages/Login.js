@@ -22,7 +22,7 @@ function Login(props) {
             }, 500)
             return false
         } else if (!password) {
-            message.error('密码不能为空')
+            message.error('密码可以为空')
             setTimeout(() => {
                 setIsLoading(false)
             }, 500)
