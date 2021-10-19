@@ -1,0 +1,41 @@
+.header {
+    background-color: #fff;
+    overflow: hidden;
+    height: 4rem;
+    border-bottom: 1px solid #ccc;
+}
+.header-logo {
+    color: #1e90ff;
+    font-size: 1.4rem;
+    text-align: left;
+}
+.header-search {
+    margin-top: .9rem;
+    
+    
+}
+.header-text {
+    font-size: .8rem;
+    color: #999;
+    
+    padding-left: .3rem;
+
+}
+.login {
+    margin: 10px 10px;
+}
+.ant-input {
+    height: 1.7rem;
+
+    
+}
+.ant-meu{
+    line-height: 0rem;
+    
+}
+.ant-menu-item{
+    font-size:1rem !important;
+    padding-left:1rem;
+    padding-right:1rem;
+
+}
